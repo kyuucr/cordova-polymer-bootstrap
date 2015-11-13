@@ -1,0 +1,17 @@
+# Modules
+node_modules
+bower_components
+
+# Platforms
+platforms/
+plugins/
+
+# OSX
+.DS_Store
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
