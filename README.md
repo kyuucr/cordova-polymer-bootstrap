@@ -1,6 +1,6 @@
 # Cordova Application template with Polymer UI Framework
 
-This is a basic Cordova Application template with Polymer 1.0 UI Framework, available to run as a webpage, Android app or iOS app. Web template based on PolymerElements/polymer-starter-kit
+This is a basic Cordova Application template with Polymer 1.0 UI Framework, available to run as a webpage, Android app or iOS app. Web template based on [PolymerElements/polymer-starter-kit](https://github.com/PolymerElements/polymer-starter-kit/).
 
 ## Features
 
@@ -23,7 +23,7 @@ nodejs, npm, bower, cordova
 ## Quirks
 
 - Supports only Android 4.4 and up (polyfill requirement for webview)
-- iOS build haven't tested yet
+- ~~iOS build haven't tested yet~~
 
 ## TODO
 
