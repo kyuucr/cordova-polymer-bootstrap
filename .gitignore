@@ -1,6 +1,9 @@
 # Modules
 node_modules
 bower_components
+.tmp
+.publish/
+www
 
 # Platforms
 platforms/
